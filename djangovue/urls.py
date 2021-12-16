@@ -7,6 +7,7 @@ from django.conf.urls.static import static
 router = DefaultRouter()
 
 router.register('upload', views.FileUploadViewset)
+router.register('uploadxml', views.XmlFileUploadViewset)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
