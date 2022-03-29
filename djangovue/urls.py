@@ -8,6 +8,7 @@ router = DefaultRouter()
 
 router.register('upload', views.FileUploadViewset)
 router.register('uploadxml', views.XmlFileUploadViewset)
+router.register('uploadcsv', views.CsvFileUploadViewset)
 
 urlpatterns = [
     path('admin/', admin.site.urls),

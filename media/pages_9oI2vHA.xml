@@ -1,0 +1,1637 @@
+<?xml version="1.0" ?>
+<all>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">70.0</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">CONTAINER NO /
+SEAL NO</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.16591066122055054</Width>
+					<Height type="float">0.07389934360980988</Height>
+					<Left type="float">0.04606321081519127</Left>
+					<Top type="float">0.40116220712661743</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04606321081519127</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04606321081519127</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">95.73927307128906</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">GCXU2286642 /
+MY421099A</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.16591066122055054</Width>
+					<Height type="float">0.1281241625547409</Height>
+					<Left type="float">0.04606321081519127</Left>
+					<Top type="float">0.4750615358352661</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04606321081519127</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04606321081519127</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">93.84353637695312</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">ITEM</Text>
+			<Confidence type="float">70.0</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">DESCRIPTION
+NO OF BAGS OR PKGS</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.36752358078956604</Width>
+					<Height type="float">0.07389934360980988</Height>
+					<Left type="float">0.2119738757610321</Left>
+					<Top type="float">0.40116220712661743</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">99.8109130859375</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">REPROCESSED LLDPE PLASTIC
+GRANULES
+680 BAGS (1 X 20 FT)
+HS CODE : 3901.10.10</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.36752358078956604</Width>
+					<Height type="float">0.1281241625547409</Height>
+					<Left type="float">0.2119738757610321</Left>
+					<Top type="float">0.4750615358352661</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2119738757610321</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">96.50177764892578</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">70.0</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">(USD/MT)
+CNF</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.09660626947879791</Width>
+					<Height type="float">0.07389934360980988</Height>
+					<Left type="float">0.5794974565505981</Left>
+					<Top type="float">0.40116220712661743</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">99.81047821044922</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">1220</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.09660626947879791</Width>
+					<Height type="float">0.1281241625547409</Height>
+					<Left type="float">0.5794974565505981</Left>
+					<Top type="float">0.4750615358352661</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5794974565505981</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">99.97077941894531</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">QUANTITY</Text>
+			<Confidence type="float">70.0</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">QTY
+(MT)</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.09660615772008896</Width>
+					<Height type="float">0.07389934360980988</Height>
+					<Left type="float">0.6761037111282349</Left>
+					<Top type="float">0.40116220712661743</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.772709846496582</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.772709846496582</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">99.9180908203125</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">17.000</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.09660615772008896</Width>
+					<Height type="float">0.1281241625547409</Height>
+					<Left type="float">0.6761037111282349</Left>
+					<Top type="float">0.4750615358352661</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.772709846496582</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.772709846496582</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6761037111282349</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">99.88428497314453</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">PRICE</Text>
+			<Confidence type="float">70.0</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">AMOUNT
+(USD)</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.1470094919204712</Width>
+					<Height type="float">0.07389934360980988</Height>
+					<Left type="float">0.7727099061012268</Left>
+					<Top type="float">0.40116220712661743</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.7727099061012268</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.919719398021698</X>
+						<Y type="float">0.40116220712661743</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.919719398021698</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.7727099061012268</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">99.87947082519531</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">20740.00</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.1470094919204712</Width>
+					<Height type="float">0.1281241625547409</Height>
+					<Left type="float">0.7727099061012268</Left>
+					<Top type="float">0.4750615358352661</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.7727099061012268</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.919719398021698</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.919719398021698</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.7727099061012268</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">99.89745330810547</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">EXPENSE_ROW</Text>
+			<Confidence type="float">99.99201202392578</Confidence>
+		</Type>
+		<ValueDetection type="dict">
+			<Text type="str">GCXU2286642 /
+MY421099A REPROCESSED LLDPE PLASTIC
+GRANULES
+680 BAGS (1 X 20 FT)
+HS CODE : 3901.10.10 1220 17.000 20740.00</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.8736562132835388</Width>
+					<Height type="float">0.1281241625547409</Height>
+					<Left type="float">0.04606321081519127</Left>
+					<Top type="float">0.4750615358352661</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04606321081519127</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.919719398021698</X>
+						<Y type="float">0.4750615358352661</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.919719398021698</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04606321081519127</X>
+						<Y type="float">0.6031857132911682</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">96.60099792480469</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">VENDOR_NAME</Text>
+			<Confidence type="float">98.98514556884766</Confidence>
+		</Type>
+		<ValueDetection type="dict">
+			<Text type="str">GALAXY POLYMERS SDN BHD</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.25294116139411926</Width>
+					<Height type="float">0.010909090749919415</Height>
+					<Left type="float">0.23058824241161346</Left>
+					<Top type="float">0.660909116268158</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.23058824241161346</X>
+						<Y type="float">0.660909116268158</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.48352938890457153</X>
+						<Y type="float">0.660909116268158</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.48352938890457153</X>
+						<Y type="float">0.671818196773529</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.23058824241161346</X>
+						<Y type="float">0.671818196773529</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">98.90071105957031</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">92.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">PO REF :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.07304773479700089</Width>
+					<Height type="float">0.012336481362581253</Height>
+					<Left type="float">0.5967898368835449</Left>
+					<Top type="float">0.3493064343929291</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.5967898368835449</X>
+						<Y type="float">0.3493064343929291</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6698375940322876</X>
+						<Y type="float">0.3493064343929291</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6698375940322876</X>
+						<Y type="float">0.3616429269313812</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5967898368835449</X>
+						<Y type="float">0.3616429269313812</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">79.79200744628906</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">5000010010/07.08.202</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.18565034866333008</Width>
+					<Height type="float">0.012458634562790394</Height>
+					<Left type="float">0.6796643733978271</Left>
+					<Top type="float">0.3490109145641327</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.6796643733978271</X>
+						<Y type="float">0.3490109145641327</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8653147220611572</X>
+						<Y type="float">0.3490109145641327</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8653147220611572</X>
+						<Y type="float">0.361469566822052</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6796643733978271</X>
+						<Y type="float">0.361469566822052</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">85.70111846923828</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">86.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">ACCOUNT NO :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.1707504838705063</Width>
+					<Height type="float">0.012831365689635277</Height>
+					<Left type="float">0.04876687005162239</Left>
+					<Top type="float">0.7341520190238953</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04876687005162239</X>
+						<Y type="float">0.7341520190238953</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.21951735019683838</X>
+						<Y type="float">0.7341520190238953</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.21951735019683838</X>
+						<Y type="float">0.7469833493232727</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04876687005162239</X>
+						<Y type="float">0.7469833493232727</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">84.42863464355469</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">8007 - 222 - 174</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.12362850457429886</Width>
+					<Height type="float">0.012729769572615623</Height>
+					<Left type="float">0.2313910275697708</Left>
+					<Top type="float">0.7341622114181519</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.2313910275697708</X>
+						<Y type="float">0.7341622114181519</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.35501953959465027</X>
+						<Y type="float">0.7341622114181519</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.35501953959465027</X>
+						<Y type="float">0.746891975402832</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2313910275697708</X>
+						<Y type="float">0.746891975402832</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">75.878173828125</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">86.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">SWIFT CODE :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.1723441779613495</Width>
+					<Height type="float">0.012431196868419647</Height>
+					<Left type="float">0.048846159130334854</Left>
+					<Top type="float">0.7523568868637085</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.048846159130334854</X>
+						<Y type="float">0.7523568868637085</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22119033336639404</X>
+						<Y type="float">0.7523568868637085</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22119033336639404</X>
+						<Y type="float">0.7647880911827087</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.048846159130334854</X>
+						<Y type="float">0.7647880911827087</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">84.43944549560547</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">CIBBMYKL</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.12430790066719055</Width>
+					<Height type="float">0.012399514205753803</Height>
+					<Left type="float">0.23098216950893402</Left>
+					<Top type="float">0.7523972988128662</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.23098216950893402</X>
+						<Y type="float">0.7523972988128662</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.3552900552749634</X>
+						<Y type="float">0.7523972988128662</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.3552900552749634</X>
+						<Y type="float">0.764796793460846</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.23098216950893402</X>
+						<Y type="float">0.764796793460846</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">78.60479736328125</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">86.0</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">GST NO :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.07311243563890457</Width>
+					<Height type="float">0.012644278816878796</Height>
+					<Left type="float">0.04982994124293327</Left>
+					<Top type="float">0.14728373289108276</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04982994124293327</X>
+						<Y type="float">0.14728373289108276</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.12294238060712814</X>
+						<Y type="float">0.14728373289108276</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.12294238060712814</X>
+						<Y type="float">0.15992800891399384</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04982994124293327</X>
+						<Y type="float">0.15992800891399384</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">84.55035400390625</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">001940672512</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.11041370779275894</Width>
+					<Height type="float">0.012240031734108925</Height>
+					<Left type="float">0.12604643404483795</Left>
+					<Top type="float">0.14753971993923187</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.12604643404483795</X>
+						<Y type="float">0.14753971993923187</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2364601343870163</X>
+						<Y type="float">0.14753971993923187</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2364601343870163</X>
+						<Y type="float">0.15977974236011505</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.12604643404483795</X>
+						<Y type="float">0.15977974236011505</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">85.98873138427734</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">82.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">BANK NAME :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.17020884156227112</Width>
+					<Height type="float">0.012528464198112488</Height>
+					<Left type="float">0.049470506608486176</Left>
+					<Top type="float">0.6792404651641846</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.049470506608486176</X>
+						<Y type="float">0.6792404651641846</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2196793556213379</X>
+						<Y type="float">0.6792404651641846</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2196793556213379</X>
+						<Y type="float">0.6917688846588135</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.049470506608486176</X>
+						<Y type="float">0.6917688846588135</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">80.2685317993164</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">CIMB BANK BERHAD</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.1783936321735382</Width>
+					<Height type="float">0.013513017445802689</Height>
+					<Left type="float">0.23140402138233185</Left>
+					<Top type="float">0.6787816882133484</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.23140402138233185</X>
+						<Y type="float">0.6787816882133484</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.40979763865470886</X>
+						<Y type="float">0.6787816882133484</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.40979763865470886</X>
+						<Y type="float">0.692294716835022</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.23140402138233185</X>
+						<Y type="float">0.692294716835022</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">82.44963836669922</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">82.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">PACKING LIST :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.17554476857185364</Width>
+					<Height type="float">0.013778326101601124</Height>
+					<Left type="float">0.04937300458550453</Left>
+					<Top type="float">0.21980224549770355</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04937300458550453</X>
+						<Y type="float">0.21980224549770355</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22491776943206787</X>
+						<Y type="float">0.21980224549770355</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22491776943206787</X>
+						<Y type="float">0.2335805743932724</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04937300458550453</X>
+						<Y type="float">0.2335805743932724</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">79.10972595214844</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">GP / MAI / 374 / 2021</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.16669130325317383</Width>
+					<Height type="float">0.013234114274382591</Height>
+					<Left type="float">0.23141103982925415</Left>
+					<Top type="float">0.22038577497005463</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.23141103982925415</X>
+						<Y type="float">0.22038577497005463</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.398102343082428</X>
+						<Y type="float">0.22038577497005463</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.398102343082428</X>
+						<Y type="float">0.23361988365650177</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.23141103982925415</X>
+						<Y type="float">0.23361988365650177</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">74.72410583496094</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">82.0</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">BANK ADDRESS :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.16972701251506805</Width>
+					<Height type="float">0.01284801121801138</Height>
+					<Left type="float">0.049431364983320236</Left>
+					<Top type="float">0.6972682476043701</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.049431364983320236</X>
+						<Y type="float">0.6972682476043701</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2191583812236786</X>
+						<Y type="float">0.6972682476043701</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2191583812236786</X>
+						<Y type="float">0.7101162672042847</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.049431364983320236</X>
+						<Y type="float">0.7101162672042847</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">80.22850036621094</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">NO.8, JALAN BATU TIGA LAMA, 41300 KLANG, SELANGOR, MALAYSIA</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.584708034992218</Width>
+					<Height type="float">0.014260475523769855</Height>
+					<Left type="float">0.22714953124523163</Left>
+					<Top type="float">0.6971101760864258</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.22714953124523163</X>
+						<Y type="float">0.6971101760864258</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8118575215339661</X>
+						<Y type="float">0.6971101760864258</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8118575215339661</X>
+						<Y type="float">0.7113706469535828</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22714953124523163</X>
+						<Y type="float">0.7113706469535828</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">81.74066162109375</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">81.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">LOAD PORT :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.17462782561779022</Width>
+					<Height type="float">0.012405534274876118</Height>
+					<Left type="float">0.04906115308403969</Left>
+					<Top type="float">0.36750343441963196</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04906115308403969</X>
+						<Y type="float">0.36750343441963196</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2236889898777008</X>
+						<Y type="float">0.36750343441963196</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2236889898777008</X>
+						<Y type="float">0.3799089789390564</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04906115308403969</X>
+						<Y type="float">0.3799089789390564</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">75.08291625976562</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">PORT KLANG, MALAYSIA</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.2162579894065857</Width>
+					<Height type="float">0.013119840063154697</Height>
+					<Left type="float">0.2290666401386261</Left>
+					<Top type="float">0.3676055669784546</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.2290666401386261</X>
+						<Y type="float">0.3676055669784546</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.4453246295452118</X>
+						<Y type="float">0.3676055669784546</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.4453246295452118</X>
+						<Y type="float">0.3807254135608673</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2290666401386261</X>
+						<Y type="float">0.3807254135608673</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">81.265380859375</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">70.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">BRANCH NAME :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.17112161219120026</Width>
+					<Height type="float">0.012785311788320541</Height>
+					<Left type="float">0.049578629434108734</Left>
+					<Top type="float">0.7157774567604065</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.049578629434108734</X>
+						<Y type="float">0.7157774567604065</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2207002341747284</X>
+						<Y type="float">0.7157774567604065</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2207002341747284</X>
+						<Y type="float">0.7285627722740173</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.049578629434108734</X>
+						<Y type="float">0.7285627722740173</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">68.68608093261719</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">PLAZA CENTRO, KLANG, SELANGOR</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.3082541227340698</Width>
+					<Height type="float">0.013878950849175453</Height>
+					<Left type="float">0.2308172732591629</Left>
+					<Top type="float">0.7156963348388672</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.2308172732591629</X>
+						<Y type="float">0.7156963348388672</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5390713810920715</X>
+						<Y type="float">0.7156963348388672</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.5390713810920715</X>
+						<Y type="float">0.7295753359794617</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2308172732591629</X>
+						<Y type="float">0.7295753359794617</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">70.42398071289062</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">67.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">COUNTRY OF ORIGIN :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.1940414160490036</Width>
+					<Height type="float">0.012240489944815636</Height>
+					<Left type="float">0.048876624554395676</Left>
+					<Top type="float">0.6245459914207458</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.048876624554395676</X>
+						<Y type="float">0.6245459914207458</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.24291804432868958</X>
+						<Y type="float">0.6245459914207458</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.24291804432868958</X>
+						<Y type="float">0.6367865204811096</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.048876624554395676</X>
+						<Y type="float">0.6367865204811096</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">63.111572265625</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">MALAYSIA</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.09012770652770996</Width>
+					<Height type="float">0.012341919355094433</Height>
+					<Left type="float">0.24839897453784943</Left>
+					<Top type="float">0.624366044998169</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.24839897453784943</X>
+						<Y type="float">0.624366044998169</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.3385266959667206</X>
+						<Y type="float">0.624366044998169</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.3385266959667206</X>
+						<Y type="float">0.6367079615592957</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.24839897453784943</X>
+						<Y type="float">0.6367079615592957</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">67.44792938232422</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">52.499996185302734</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">HS CODE :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.08543123304843903</Width>
+					<Height type="float">0.01225613709539175</Height>
+					<Left type="float">0.23239487409591675</Left>
+					<Top type="float">0.5694685578346252</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.23239487409591675</X>
+						<Y type="float">0.5694685578346252</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.31782612204551697</X>
+						<Y type="float">0.5694685578346252</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.31782612204551697</X>
+						<Y type="float">0.5817247033119202</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.23239487409591675</X>
+						<Y type="float">0.5817247033119202</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">48.75322723388672</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">3901.10.10</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.08340094983577728</Width>
+					<Height type="float">0.01215065736323595</Height>
+					<Left type="float">0.32056257128715515</Left>
+					<Top type="float">0.5695014595985413</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.32056257128715515</X>
+						<Y type="float">0.5695014595985413</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.40396350622177124</X>
+						<Y type="float">0.5695014595985413</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.40396350622177124</X>
+						<Y type="float">0.5816521048545837</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.32056257128715515</X>
+						<Y type="float">0.5816521048545837</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">51.951812744140625</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">37.5</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">GALAXY POLYMERS SDN BHD</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.25479719042778015</Width>
+					<Height type="float">0.013462968170642853</Height>
+					<Left type="float">0.04951603338122368</Left>
+					<Top type="float">0.8986009359359741</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04951603338122368</X>
+						<Y type="float">0.8986009359359741</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.30431321263313293</X>
+						<Y type="float">0.8986009359359741</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.30431321263313293</X>
+						<Y type="float">0.9120638966560364</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04951603338122368</X>
+						<Y type="float">0.9120638966560364</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">37.45905303955078</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">(1106953-U)</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.21748222410678864</Width>
+					<Height type="float">0.0644085705280304</Height>
+					<Left type="float">0.06931978464126587</Left>
+					<Top type="float">0.822335422039032</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.06931978464126587</X>
+						<Y type="float">0.822335422039032</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2868020236492157</X>
+						<Y type="float">0.822335422039032</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2868020236492157</X>
+						<Y type="float">0.8867440223693848</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.06931978464126587</X>
+						<Y type="float">0.8867440223693848</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">34.31950378417969</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">VENDOR_NAME</Text>
+			<Confidence type="float">92.21794891357422</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">BENEFICIARY :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.169411763548851</Width>
+					<Height type="float">0.010909090749919415</Height>
+					<Left type="float">0.05000000074505806</Left>
+					<Top type="float">0.660909116268158</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.05000000074505806</X>
+						<Y type="float">0.660909116268158</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.21941177546977997</X>
+						<Y type="float">0.660909116268158</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.21941177546977997</X>
+						<Y type="float">0.671818196773529</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.05000000074505806</X>
+						<Y type="float">0.671818196773529</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">87.46392059326172</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">GALAXY POLYMERS SDN BHD</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.25294116139411926</Width>
+					<Height type="float">0.010909090749919415</Height>
+					<Left type="float">0.23058824241161346</Left>
+					<Top type="float">0.660909116268158</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.23058824241161346</X>
+						<Y type="float">0.660909116268158</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.48352938890457153</X>
+						<Y type="float">0.660909116268158</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.48352938890457153</X>
+						<Y type="float">0.671818196773529</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.23058824241161346</X>
+						<Y type="float">0.671818196773529</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">92.13928985595703</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">TOTAL</Text>
+			<Confidence type="float">96.66796112060547</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">GRAND TOTAL</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.12705880403518677</Width>
+					<Height type="float">0.010909090749919415</Height>
+					<Left type="float">0.33176469802856445</Left>
+					<Top type="float">0.6059091091156006</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.33176469802856445</X>
+						<Y type="float">0.6059091091156006</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.4588235020637512</X>
+						<Y type="float">0.6059091091156006</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.4588235020637512</X>
+						<Y type="float">0.6168181896209717</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.33176469802856445</X>
+						<Y type="float">0.6168181896209717</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">96.58187103271484</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">17.000 20,740.00</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.18176470696926117</Width>
+					<Height type="float">0.01272727269679308</Height>
+					<Left type="float">0.701764702796936</Left>
+					<Top type="float">0.6054545640945435</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.701764702796936</X>
+						<Y type="float">0.6054545640945435</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8835294246673584</X>
+						<Y type="float">0.6054545640945435</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8835294246673584</X>
+						<Y type="float">0.6181818246841431</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.701764702796936</X>
+						<Y type="float">0.6181818246841431</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">96.50841522216797</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">RECEIVER_ADDRESS</Text>
+			<Confidence type="float">81.01551055908203</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">CONSIGNEE :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.17352941632270813</Width>
+					<Height type="float">0.011818181723356247</Height>
+					<Left type="float">0.04941176623106003</Left>
+					<Top type="float">0.2390909045934677</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04941176623106003</X>
+						<Y type="float">0.2390909045934677</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22294117510318756</X>
+						<Y type="float">0.2390909045934677</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22294117510318756</X>
+						<Y type="float">0.25090909004211426</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04941176623106003</X>
+						<Y type="float">0.25090909004211426</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">76.88209533691406</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">MAINETTI (INDIA) PVT LTD
+PLOT E-13, 1ST CROSS ROAD, SIPCOT INDUSTRIAL PARK
+MAMBAKKAM VILLAGE, SRIPERUMPUDUR
+KANCHEEPURAM DIST - 602105, INDIA
+IEC - 0497018080
+GSTIN - 33AAACM6894M1ZY</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.4717647135257721</Width>
+					<Height type="float">0.10227272659540176</Height>
+					<Left type="float">0.23000000417232513</Left>
+					<Top type="float">0.23954544961452484</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.23000000417232513</X>
+						<Y type="float">0.23954544961452484</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.701764702796936</X>
+						<Y type="float">0.23954544961452484</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.701764702796936</X>
+						<Y type="float">0.3418181836605072</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.23000000417232513</X>
+						<Y type="float">0.3418181836605072</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">78.27371215820312</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">INVOICE_RECEIPT_DATE</Text>
+			<Confidence type="float">99.78242492675781</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">DATE :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.06294117867946625</Width>
+					<Height type="float">0.010909090749919415</Height>
+					<Left type="float">0.7223529815673828</Left>
+					<Top type="float">0.202727273106575</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.7223529815673828</X>
+						<Y type="float">0.202727273106575</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.7852941155433655</X>
+						<Y type="float">0.202727273106575</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.7852941155433655</X>
+						<Y type="float">0.2136363536119461</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.7223529815673828</X>
+						<Y type="float">0.2136363536119461</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">92.92757415771484</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">06-09-2021
+- -</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.10352940857410431</Width>
+					<Height type="float">0.01227272767573595</Height>
+					<Left type="float">0.7941176891326904</Left>
+					<Top type="float">0.20181818306446075</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.7941176891326904</X>
+						<Y type="float">0.20181818306446075</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8976470828056335</X>
+						<Y type="float">0.20181818306446075</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8976470828056335</X>
+						<Y type="float">0.21409089863300323</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.7941176891326904</X>
+						<Y type="float">0.21409089863300323</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">83.43548583984375</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">INVOICE_RECEIPT_ID</Text>
+			<Confidence type="float">98.77889251708984</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">INVOICE NO :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.17352941632270813</Width>
+					<Height type="float">0.011363636702299118</Height>
+					<Left type="float">0.04941176623106003</Left>
+					<Top type="float">0.202727273106575</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.04941176623106003</X>
+						<Y type="float">0.202727273106575</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22294117510318756</X>
+						<Y type="float">0.202727273106575</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.22294117510318756</X>
+						<Y type="float">0.21409089863300323</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.04941176623106003</X>
+						<Y type="float">0.21409089863300323</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">92.51214599609375</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">GP / MAI / 374 / 2021</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.16470585763454437</Width>
+					<Height type="float">0.01227272767573595</Height>
+					<Left type="float">0.2311764806509018</Left>
+					<Top type="float">0.20227272808551788</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.2311764806509018</X>
+						<Y type="float">0.20227272808551788</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.39588233828544617</X>
+						<Y type="float">0.20227272808551788</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.39588233828544617</X>
+						<Y type="float">0.21454544365406036</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.2311764806509018</X>
+						<Y type="float">0.21454544365406036</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">89.78441619873047</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+	<item type="dict">
+		<Type type="dict">
+			<Text type="str">OTHER</Text>
+			<Confidence type="float">99.9134292602539</Confidence>
+		</Type>
+		<LabelDetection type="dict">
+			<Text type="str">TO :</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.03882356360554695</Width>
+					<Height type="float">0.010909090749919415</Height>
+					<Left type="float">0.6317647099494934</Left>
+					<Top type="float">0.36772727966308594</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.6317647099494934</X>
+						<Y type="float">0.36772727966308594</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6705882549285889</X>
+						<Y type="float">0.36772727966308594</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6705882549285889</X>
+						<Y type="float">0.37863636016845703</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6317647099494934</X>
+						<Y type="float">0.37863636016845703</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">90.2941665649414</Confidence>
+		</LabelDetection>
+		<ValueDetection type="dict">
+			<Text type="str">KATTUPALLIPORT (CNF)</Text>
+			<Geometry type="dict">
+				<BoundingBox type="dict">
+					<Width type="float">0.2123529464006424</Width>
+					<Height type="float">0.013636363670229912</Height>
+					<Left type="float">0.6770588755607605</Left>
+					<Top type="float">0.3672727346420288</Top>
+				</BoundingBox>
+				<Polygon type="list">
+					<item type="dict">
+						<X type="float">0.6770588755607605</X>
+						<Y type="float">0.3672727346420288</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8894118070602417</X>
+						<Y type="float">0.3672727346420288</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.8894118070602417</X>
+						<Y type="float">0.3809090852737427</Y>
+					</item>
+					<item type="dict">
+						<X type="float">0.6770588755607605</X>
+						<Y type="float">0.3809090852737427</Y>
+					</item>
+				</Polygon>
+			</Geometry>
+			<Confidence type="float">98.80306243896484</Confidence>
+		</ValueDetection>
+		<PageNumber type="int">1</PageNumber>
+	</item>
+</all>
